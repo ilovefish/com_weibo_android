@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/res/values
+END
+weibosdk_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/res/values/weibosdk_strings.xml
+END
+weibosdk_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/res/values/weibosdk_color.xml
+END
+weibosdk_dimens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/res/values/weibosdk_dimens.xml
+END
+weibosdk_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/res/values/weibosdk_style.xml
+END
